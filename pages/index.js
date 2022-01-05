@@ -63,13 +63,13 @@ export default function Home() {
                     style={{
                         textAlign: "center",
                         fontSize: "120px",
-                        fontWeight: "1000",
+                        fontWeight: "1200",
                         color: "white",
                         lineHeight: "130px",
                         letterSpacing: "8px",
                     }}
                 >
-                    Prime Ape
+                    C-01
 
                 </div>
                 <div
@@ -82,7 +82,7 @@ export default function Home() {
                         letterSpacing: "6px",
                     }}
                 >
-                    BONUS MINT - USER #694
+                    RAFFLE WINNER #694
                 </div>
             </div>
             <div
@@ -122,7 +122,7 @@ export default function Home() {
                     fontWeight: '500'
                 }}
             >
-                Total Minted: 782 / 799
+                Total Minted: 786 / 799
             </div>
 
             <div
@@ -151,7 +151,7 @@ export default function Home() {
                     max="10"
                     type="number"
                 />
-                <div style={{ color: "white", fontSize: "30px", fontWeight: '500', }}>Prime Ape(s)</div>
+                <div style={{ color: "white", fontSize: "30px", fontWeight: '500', }}>NFT(s)</div>
             </div>
             <button
                 onClick={() => {
