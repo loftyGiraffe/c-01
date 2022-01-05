@@ -63,7 +63,7 @@ export default function Home() {
                     style={{
                         textAlign: "center",
                         fontSize: "120px",
-                        fontWeight: "1800",
+                        fontWeight: "5800",
                         color: "white",
                         lineHeight: "170px",
                         letterSpacing: "8px",
