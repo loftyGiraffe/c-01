@@ -63,9 +63,9 @@ export default function Home() {
                     style={{
                         textAlign: "center",
                         fontSize: "120px",
-                        fontWeight: "1200",
+                        fontWeight: "1800",
                         color: "white",
-                        lineHeight: "130px",
+                        lineHeight: "170px",
                         letterSpacing: "8px",
                     }}
                 >
